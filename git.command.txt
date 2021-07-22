@@ -1,0 +1,14 @@
+git clone-repositorei hascen enq grum
+cd -mi folderic myus folder gnanq
+cd ../-het gnal
+git status- popoxutyunnerna cuyc talis
+git add . - sax filerna avelacnum
+git add file name-et filena avelacnum
+git commit -m "comment" - anun enq talis
+git config --global user.name/email "name/email"
+git pull origin -branch namegig
+git push origin - branch name
+git checkout -b branch name -> avelacnuma nor branch
+git checkout branch name-> texapoxvuma et branchi mej
+:q->quit
+
